@@ -1,4 +1,4 @@
-# ytdl-webserver [![Build Status](https://travis-ci.com/Algram/ytdl-webserver.svg?branch=master)](https://travis-ci.com/Algram/ytdl-webserver)
+# ytdl-webserver [![Build Status](https://travis-ci.com/Algram/ytdl-webserver.svg?branch=master)](https://travis-ci.com/Algram/ytdl-webserver) [![GuardRails badge](https://badges.production.guardrails.io/shtakai/ytdl-webserver.svg)](https://www.guardrails.io)
 Webserver for downloading youtube videos. Ready for docker.
 If you have questions, read the [blog post](https://blog.rphl.io/selfhosted-youtube-downloader-with-docker/).
 
